@@ -1,5 +1,3 @@
-# Brenda
-Projeto Alura
 # Brenda Larissa
 Projeto Alura
 # Site sobre a Lana Del Rey
